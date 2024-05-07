@@ -24,3 +24,8 @@ class segitiga
             return 0.5 * a * t;
         }
 };
+
+int main(){
+    
+
+}
